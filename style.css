@@ -1,0 +1,11 @@
+
+
+:root {
+--cor-principal: #661111 ;
+--cor-secundaria: ;
+--cor-destaque: ;
+}
+
+footer a {
+    color: var(--cor-principal)
+}
